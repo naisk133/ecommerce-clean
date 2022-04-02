@@ -1,0 +1,12 @@
+Workshop
+- create product
+- create checkout
+- add product to checkout
+- create coupon
+- add coupon to checkout
+
+Homework
+- remove product from checkout
+- remove coupon from checkout
+- implement db adapter (postgres, mongo, redis, etc.)
+- implement checkout rest api
